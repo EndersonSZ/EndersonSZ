@@ -1,4 +1,4 @@
-### Oi, me chamo Enderson em constante aprendizado. 👋
+### Oi, me chamo Enderson, estou em constante aprendizado. 👋
 
 <!--
 **EndersonSZ/EndersonSZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
